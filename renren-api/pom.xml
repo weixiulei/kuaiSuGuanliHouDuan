@@ -9,7 +9,6 @@
 	<packaging>jar</packaging>
 	<description>renren-api</description>
 
-
 	<dependencies>
 		<dependency>
 			<groupId>io.renren</groupId>
